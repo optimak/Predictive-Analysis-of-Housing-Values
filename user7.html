@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>PUNTIT</title>
+
+    </head>
+    <body>
+        <div>
+            <h1 style="font-family:monaco"> PUNTIT!</h1>
+            <style> body {background-color: peachpuff;} h2 {
+                font-family: monaco;
+                }
+               
+               </style>
+            <style>
+                .loading::after {
+                  display: inline-block;
+                  animation: dotty steps(1,end) 1s infinite;
+                  content: '';
+                  
+                }
+                @keyframes dotty {
+                    0%   { content: ''; }
+                    50%  { content: 'GAME OVER !!!'; }
+                }
+            </style>
+
+            <div>
+            <h2 style="font-family: monaco;" class="loading">  </h2> 
+            </div> 
+           
+            <h3 style="font-family:monaco" > You got correct __ ADD VARIABLE HERE{{var}} <br> out of __ {{var}}</h3>
+           
+        </div>
+    </body>
+</html>

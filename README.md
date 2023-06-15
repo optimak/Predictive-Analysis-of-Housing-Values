@@ -88,29 +88,29 @@ all available samples were utilized for the subsequent stages of
 analysis and modeling. After running the descriptive statistics in
 excel, the following results were the relevant values obtained:
 
-<img src="./media/image1.png" style="width:0.3;height:0.2"
-alt="A picture containing line, parallel, screenshot, black and white Description automatically generated" />
-<img src="./media/image2.png" style="width:0.3;height:0.2"
-alt="A grid of white lines on a black background Description automatically generated with low confidence" />
-<img src="./media/image3.png" style="width:0.3;height:0.2"
-alt="A picture containing line, parallel, black and white, monochrome Description automatically generated" /><img src="./media/image4.png" style="width:0.3;height:0.2"
+<img src="./media/image1.png" 
+alt="A picture containing line, parallel, screenshot, black and white Description automatically generated" width="240" height="250" />
+<img src="./media/image2.png" 
+alt="A grid of white lines on a black background Description automatically generated with low confidence" width="255" height="250"/>
+<img src="./media/image3.png"
+alt="A picture containing line, parallel, black and white, monochrome Description automatically generated" width="255" height="250" /><img src="./media/image4.png" width="240" height="250"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
-<img src="./media/image5.png" style="width:0.3;height:0.2"
+<img src="./media/image5.png" width="255" height="250"
 alt="A grid of white lines on a black background Description automatically generated with low confidence" />
-<img src="./media/image6.png" style="width:0.3;height:0.2"
-alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image7.png" style="width:0.3;height:0.2"
+<img src="./media/image6.png" width="255" height="250"
+alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image7.png" width="240" height="250"
 alt="A picture containing line, parallel, screenshot, black and white Description automatically generated" />
-<img src="./media/image8.png" style="width:0.3;height:0.2"
+<img src="./media/image8.png" width="255" height="250"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
-<img src="./media/image9.png" style="width:0.3;height:0.2"
-alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image10.png" style="width:0.3;height:0.2"
+<img src="./media/image9.png" width="255" height="250"
+alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image10.png" width="240" height="250"
 alt="A picture containing line, screenshot, parallel, black and white Description automatically generated" />
-<img src="./media/image11.png" style="width:0.3;height:0.2"
+<img src="./media/image11.png" width="255" height="250"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
-<img src="./media/image12.png" style="width:2.03031in;height:1.88015in"
+<img src="./media/image12.png" width="255" height="250"
 alt="A grid of white lines on a black background Description automatically generated with low confidence" />
 
-<img src="./media/image13.png" style="width:1.93138in;height:1.73385in"
+<img src="./media/image13.png" width="240" height="250"
 alt="A picture containing line, parallel, black, screenshot Description automatically generated" />
 
 <u>Figure 1 : Relevant Descriptive Statistics of numerical variables in
@@ -177,7 +177,7 @@ their own, except for tax.
 Considering these findings, it is decided to rerun the regression
 analysis while excluding taxes as one of the independent
 variables.<img src="./media/image14.png" style="width:6.93996in;height:3.99375in"
-alt="Table Description automatically generated" /><u>Figure 3 – Multiple
+alt="Table Description automatically generated" /><u> Figure 3 – Multiple
 Regression output 1.</u>
 
 Furthermore, by rerunning the regression analysis while excluding the

@@ -88,24 +88,24 @@ all available samples were utilized for the subsequent stages of
 analysis and modeling. After running the descriptive statistics in
 excel, the following results were the relevant values obtained:
 
-<img src="./media/image1.png" style="width:1.97604in;height:1.57791in"
+<img src="./media/image1.png" style="width:0.3;height:0.2"
 alt="A picture containing line, parallel, screenshot, black and white Description automatically generated" />
-<img src="./media/image2.png" style="width:1.9393in;height:1.58375in"
+<img src="./media/image2.png" style="width:0.3;height:0.2"
 alt="A grid of white lines on a black background Description automatically generated with low confidence" />
-<img src="./media/image3.png" style="width:1.98101in;height:1.58259in"
-alt="A picture containing line, parallel, black and white, monochrome Description automatically generated" /><img src="./media/image4.png" style="width:2.00606in;height:1.6027in"
+<img src="./media/image3.png" style="width:0.3;height:0.2"
+alt="A picture containing line, parallel, black and white, monochrome Description automatically generated" /><img src="./media/image4.png" style="width:0.3;height:0.2"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
-<img src="./media/image5.png" style="width:1.91418in;height:1.5596in"
+<img src="./media/image5.png" style="width:0.3;height:0.2"
 alt="A grid of white lines on a black background Description automatically generated with low confidence" />
-<img src="./media/image6.png" style="width:1.98897in;height:1.59693in"
-alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image7.png" style="width:1.94267in;height:1.73958in"
+<img src="./media/image6.png" style="width:0.3;height:0.2"
+alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image7.png" style="width:0.3;height:0.2"
 alt="A picture containing line, parallel, screenshot, black and white Description automatically generated" />
-<img src="./media/image8.png" style="width:1.9394in;height:1.7402in"
+<img src="./media/image8.png" style="width:0.3;height:0.2"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
-<img src="./media/image9.png" style="width:1.99398in;height:1.7586in"
-alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image10.png" style="width:1.94637in;height:1.8729in"
+<img src="./media/image9.png" style="width:0.3;height:0.2"
+alt="A grid of white lines on a black background Description automatically generated with low confidence" /><img src="./media/image10.png" style="width:0.3;height:0.2"
 alt="A picture containing line, screenshot, parallel, black and white Description automatically generated" />
-<img src="./media/image11.png" style="width:1.94595in;height:1.89982in"
+<img src="./media/image11.png" style="width:0.3;height:0.2"
 alt="A picture containing line, screenshot, parallel, black Description automatically generated" />
 <img src="./media/image12.png" style="width:2.03031in;height:1.88015in"
 alt="A grid of white lines on a black background Description automatically generated with low confidence" />
